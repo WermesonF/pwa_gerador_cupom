@@ -1,16 +1,16 @@
-# pwa_gerador_cupom
+# PWA Gerador de Cupons
 
-A new Flutter project.
+Projeto desenvolvido em Flutter Web.
 
-## Getting Started
+O Objetivo do PWA e gerar cupons de desconto em forma de QR Code, onde os clientes preencheram algumas informações e terão seu desconto para utilizar no possível estabelecimento. Os dados são armazenados no cloud Firebase onde podem ser validados pelo aplicativo [Leitor de QR Code](https://github.com/WermesonF/leitor_qrcode), com estas informações a empresa consegue trabalhar um atendimento diferenciado para seus clientes.
 
-This project is a starting point for a Flutter application.
+Vizualização do projeto:
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101995826/196834825-ae8c4ad5-e32a-48d9-ae7f-ed5803858166.png"/>
+  <img src="https://user-images.githubusercontent.com/101995826/196834866-724c73d7-24d1-4582-a89f-cb1ac836c665.png"/>
+  <img src="https://user-images.githubusercontent.com/101995826/196834871-2b5d0078-b670-467b-af1a-3bb5654a9a4a.png"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
